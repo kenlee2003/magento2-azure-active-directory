@@ -1,5 +1,5 @@
 {
-  "name": "magium/magento2-azure-active-directory",
+  "name": "kenlee2003/magento2-azure-active-directory",
   "description": "Allows admin UI access via Azure's Active Directory",
   "license": "Apache-2.0",
   "authors": [
